@@ -68,6 +68,9 @@ pp1.play(rbn1);
 // red belt ninja attacks black belt ninja
 rbn1.attack(bbn1);
 
+// test for error 
+// pp1.play(upr1);
+
 
 console.log(rbn1);
 console.log(bbn1);
